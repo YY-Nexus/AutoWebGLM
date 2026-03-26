@@ -13,4 +13,4 @@ text-generation
 transformers==4.53.0
 lxml==5.1.0
 torch
-sentencepiece==0.2.0
+sentencepiece==0.2.1
